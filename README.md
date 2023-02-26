@@ -9,7 +9,7 @@ Users can also know which doctor will be present at that specific time and which
 shortest possible time.
 
 #Team Members
-Sanjeet Kumar     ( https://github.com/sanjeetbth7 )
-Gaurav Kumar      ( https://github.com/yashswag ) 
-Mrinal Anand      ( https://github.com/MrinalCom )
-Hamzah Shahbaz Khan ( https://github.com/hamzahshahbazkhan )
+- Sanjeet Kumar     ( https://github.com/sanjeetbth7 )
+- Gaurav Kumar      ( https://github.com/yashswag ) 
+- Mrinal Anand      ( https://github.com/MrinalCom )
+- Hamzah Shahbaz Khan ( https://github.com/hamzahshahbazkhan )
