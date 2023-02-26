@@ -1,0 +1,35 @@
+/* .mainContainer{
+    padding: 10px 10px;
+} */
+.patientDetails{
+    background-color: #afd7ddba;
+    /* margin: 10px 5px; */
+    padding: 10px 10px;
+    margin-top: 2px;
+}
+
+.patientDetails h1{
+    font-family: sans-serif;
+    size: 18px;
+
+}
+
+.patientDetails h2{
+    font-family: sans-serif;
+    size: 18px;
+
+}
+
+.patientDetails p{
+    font-family: sans-serif;
+    size: 15px;
+}
+
+.formDate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10px;
+}

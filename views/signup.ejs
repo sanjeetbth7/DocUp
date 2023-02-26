@@ -1,0 +1,18 @@
+<%- include('partial/header') %>
+
+<form action="/signup" method="post">
+    <input type="text" name="name" id="" placeholder="name">
+    <input type="email" name="email" id=""  placeholder="email id">
+    <input type="text" name="password" id="" placeholder="password" >
+    <input list="Catagory" class=" " name="domain" placeholder="Specialiazation">
+                    <datalist id="Catagory">
+                      <option value="Cardiologist">
+                      <option value="Orthopaedic">
+                      <option value="Ophrologist">
+                      <option value="Nephrologist">
+                      <option value="ENT">
+                    </datalist>
+    <button type="submit"> signup </button>
+</form>
+
+<%- include('partial/footer') %>

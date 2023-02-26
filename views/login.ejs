@@ -1,0 +1,45 @@
+<%- include('partial/header') %>
+<div class="container">
+<!-- Initial form -->
+<!-- <form action="/login" method="post">
+    <input type="email" name="email" id="email"  placeholder="email id" required>
+    <input type="text" name="password" id="password" placeholder="password" required>
+    <button type="submit" style = "margin-top: 10px;" class="btn btn-primary" > login </button>
+</form> -->
+<!-- Initial form -->
+
+</div>
+
+<div class="container mt-4 p-4">
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="text-center my-4" style="color: black; font-size: 18px;">
+                Only for Doctors
+            </h2>
+            <form action="/login" method="post">
+                <div class="form-group row">
+                    <label class="col-sm-4 col-lg-4">
+                        Email
+                    </label>
+                    <div class="col-sm-8 col-lg-8">
+                        <input type="email" name="email" id="email"  placeholder="email id" required>
+                    </div>
+                </div>
+                
+                <div class="form-group row">
+                  <label class="col-sm-4 col-lg-4">
+                      Password
+                  </label>
+                  <div class="col-sm-8 col-lg-8">
+                    <input type="text" name="password" id="password" placeholder="password" required>
+                  </div>
+              </div>
+
+              <button type="submit" style = "margin-top: 10px;" class="btn btn-primary" > login </button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+<%- include('partial/footer') %>

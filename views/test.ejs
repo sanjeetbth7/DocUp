@@ -1,0 +1,27 @@
+<%- include('partial/header') %>
+<div class="formDate">
+<form action="/searchbydate" method="post">
+    <label for="date">Choose Any date to See All Appointment on that date : </label>
+    <input type="date" name="date" id="date" >
+    <button type="submit" class="btn btn-primary">search</button>
+</form>
+</div>
+<section class="mainContainer">
+<% let i= 1 %>
+    <% patients.forEach(patient => { %>
+        <div class="patientDetails">
+    <p> <strong><%= i %> Patient Details :--- </strong></p><br>
+    <p><b> Name : </b> <%= patient.name %></p>
+    <p><b> Contact : </b> <%= patient.contact %></p>
+    <p><b> Date : </b> <%= patient.date %></p>
+    <p><b> Time : </b> <%= patient.time %></p>
+    <p><b> Catagory : </b> <%= patient.domain %></p>
+    <p><b> Symptoms : </b> <%= patient.symptoms %></p>
+    </div>
+    <% i++; %>
+
+    <% }); %>
+
+</section>
+
+<%- include('partial/footer') %>
