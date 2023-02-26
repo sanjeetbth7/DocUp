@@ -8,7 +8,7 @@ It will basically connect both doctors and patients as doctors will also have th
 Users can also know which doctor will be present at that specific time and which doctor will give medical treatment in
 shortest possible time.
 
-#Team Members
+##Team Members
 - Sanjeet Kumar     ( https://github.com/sanjeetbth7 )
 - Gaurav Kumar      ( https://github.com/yashswag ) 
 - Mrinal Anand      ( https://github.com/MrinalCom )
