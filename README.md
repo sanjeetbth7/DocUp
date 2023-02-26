@@ -7,3 +7,9 @@ DocUp will make this process very easy as now there is no need for them to trave
 It will basically connect both doctors and patients as doctors will also have the track of patients to be visited.
 Users can also know which doctor will be present at that specific time and which doctor will give medical treatment in
 shortest possible time.
+
+#Team Members
+Sanjeet Kumar     ( https://github.com/sanjeetbth7 )
+Gaurav Kumar      ( https://github.com/yashswag ) 
+Mrinal Anand      ( https://github.com/MrinalCom )
+Hamzah Shahbaz Khan ( https://github.com/hamzahshahbazkhan )
