@@ -11,7 +11,7 @@ shortest possible time.
 
 ## Team Members
 - Sanjeet Kumar     ( https://github.com/sanjeetbth7 )
-- Gaurav Kumar      ( https://github.com/yashswag ) 
+- Gaurav Kumar      ( https://github.com/yashswag22 ) 
 - Mrinal Anand      ( https://github.com/MrinalCom )
 - Hamzah Shahbaz Khan ( https://github.com/hamzahshahbazkhan )
 
